@@ -1,0 +1,42 @@
+<html>
+<body>
+<h1 align="center"><u>Resume</u></h1>
+<hr>
+<p align="left">NIKHIL TONGE <br>
+computer science and engineering <br>
+mob no.7564836498
+</p>
+<img src="C:\Users\Student\Desktop\a.jpg" align = "right" height ="100">
+
+
+<table border = "2">
+<tr>
+
+		<th>qualification</th>
+		<th>university</th>
+		<th><percentages/th>
+		<th>passing year</th>
+</tr>
+<tr>
+		<td>SSC</td>
+		<td>mahatma gandhi jr collage </td>
+		<td>70%</td>
+		<td>2022</td>
+</tr>
+<tr>
+		<td>ssc</td>
+		<td>jmc high school</td>
+		<td>82%</td>
+		<td>2022</td>
+</tr>
+</table>
+
+<h2 aligh = "center"><b><i><u>skills:<br>
+
+<p align = "left">c<br>c++<br>python<br>java<br>webdevelopment<br>
+
+
+
+
+
+
